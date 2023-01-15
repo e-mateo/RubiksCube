@@ -3,6 +3,7 @@
 ## Presentation
 -----------
 ![png](./Images/gamescreen.png)
+Link : https://srybe.itch.io/rubiks-cube
 
 ### Introduction
 -----------
@@ -19,6 +20,6 @@ By pressing the 'Change Cube' button you can choose the size of the cube (from 2
 
 ### Controls :
 -----------
-Hold the right mouse button + movement: Rotate the cube
-Hold the left mouse button + movement: Rotate the face
-Wheel mouse: Zoom In/Out
+Hold the right mouse button + movement: Rotate the cube <br>
+Hold the left mouse button + movement: Rotate the face <br>
+Wheel mouse: Zoom In/Out <br>
