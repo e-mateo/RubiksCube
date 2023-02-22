@@ -3,7 +3,7 @@
 ## Presentation
 -----------
 ![png](./Images/gamescreen.png)
-Link : https://srybe.itch.io/rubiks-cube
+Link : https://mateo-gp.itch.io/rubiks-cube
 
 ### Introduction
 -----------
