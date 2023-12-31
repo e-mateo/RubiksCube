@@ -24,3 +24,16 @@ By pressing the 'Change Cube' button you can choose the size of the cube (from 2
 Hold the right mouse button + movement: Rotate the cube <br>
 Hold the left mouse button + movement: Rotate the face <br>
 Wheel mouse: Zoom In/Out <br>
+
+### Tasks I've worked on:
+-----------
+
+• Mathematics: On this project, we had to make our rotations with quaternions without using functions such as Rotate Around or Euler Angles. I've used different mathematical tools such as Vectors, Planes, and Quaternions.
+
+• Rotation of the cube and faces
+
+• Cube Shuffle
+
+• Win condition
+
+• UI Integration
