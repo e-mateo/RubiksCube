@@ -3,11 +3,12 @@
 ## Presentation
 -----------
 ![png](./Images/gamescreen.png)
-Link : https://mateo-gp.itch.io/rubiks-cube
+Build Link: https://mateo-gp.itch.io/rubiks-cube <br>
+Portfolio Link: https://merbistigp.editorx.io/portfolio-mateo/blank-3-3-1-1-1 <br>
 
 ### Introduction
 -----------
- `Rubik's Cube` is a PC game made on Unity 3D. <br>
+ `Rubik's Cube` is a PC game made on Unity 3D (Version 2021.3.11). <br>
  The objective of this project was to make a Rubik's Cube by using quaternions, vectors, and planes without using some Unity functions such as Rotate and Rotate Around <br>
  This project has been made by **RABINNE Lenny** and **ERBISTI Matéo**. <br>
  This project really helped us to understand how quaternions can be useful in games and how to use them. 
